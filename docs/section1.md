@@ -90,7 +90,7 @@ In the first video, I give you a motivation for why we are interested in "Games"
 
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4e87ba13-ee55-482a-ac46-adb401469b31&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all"
 align="center"
-height="500" width="900" 
+height="405" width="720" 
 style="border: 1px solid #464646;" 
 allowfullscreen allow="autoplay">
 </iframe>
@@ -101,7 +101,7 @@ allowfullscreen allow="autoplay">
 
 The second video looks at Nash equilibria and shows how to find them in a few different examples. 
 <br><br>
-<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e1ee0f19-226d-46c8-bd28-adb401543c82&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="500" width="900" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e1ee0f19-226d-46c8-bd28-adb401543c82&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
 </iframe>
 
 <br>
@@ -112,7 +112,7 @@ In the next video, I consider the concept of best responses, provide the formal 
 
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=71e90f4b-7dda-4f63-9ced-adbc010affe7&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all"
 align="center"
-height="500" width="900" 
+height="405" width="720" 
 allowfullscreen >
 </iframe>
 
@@ -122,7 +122,7 @@ The next video expands on this a little, and gives two further examples, each wi
 <br><br>
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=82c09985-f629-47b2-840d-adbc01137bb8&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all"
 align="center"
-height="500" width="900" 
+height="405" width="720" 
 allowfullscreen >
 </iframe>
 
@@ -132,7 +132,7 @@ In this video, I talk about the notion of (strict and weak) domination, and give
 <br><br>
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ca32290d-64ec-4bd5-b4d0-adbc011b368e&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all"
 align="center"
-height="500" width="900" 
+height="405" width="720" 
 allowfullscreen >
 </iframe>
 
