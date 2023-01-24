@@ -3,6 +3,11 @@ layout: post
 title: "Section 7: Extensive games with incomplete information"
 ---
 
+# Section 7: Extensive games with incomplete information
+
+<br>
+
+
 
 ### Lecture Videos
 We now move on to extensive games with incomplete information. These games are equivalent to extensive games with imperfect information (unobserved *actions*, rather than unobserved *types*) and “chance” moves by nature, and we will talk about such games only in these terms. The main difference to Bayesian games is that players move sequentially and learn during the game, and the challenge is then to model how players learn and what beliefs they hold at each stage of the game. 
