@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "Section 6: Bayesian games"
+title: "Section 5: Bayesian games"
 permalink: /posts/:title
 ---
+
+We begin this section with a review of basic concepts of probability and statistics. We will need this to formalise the notion of information and uncertainty, and explain how players form and update their beliefs about uncertain states of the world. 
+
+<br>
+
 
 # 1. Statistics Review
 
