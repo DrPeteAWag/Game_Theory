@@ -4,7 +4,7 @@ title: "Section 2: Extensive Games"
 order: 2
 ---
 
-# "Section 2: Extensive Games"
+# Section 2: Extensive Games
 
 <br>
 

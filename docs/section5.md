@@ -4,12 +4,14 @@ title: "Section 5: Bayesian games"
 permalink: /posts/:title
 ---
 
-We begin this section with a review of basic concepts of probability and statistics. We will need this to formalise the notion of information and uncertainty, and explain how players form and update their beliefs about uncertain states of the world. 
+# Overview
+
+We begin this section with a review of basic concepts of probability and statistics. In the second part of this section, we use these concepts to extend strategic games as discussed in Section 1 by allowing players to be have different information about their preferences or other aspects of the game, and we explain how to modify the notion of Nash equilibrium to this class of games. 
 
 <br>
 
 
-# 1. Statistics Review
+### Preliminaries: Statistics Review
 
 <br>
 
@@ -27,7 +29,7 @@ First, we will be focusing our attention on a review of some basic concepts from
 
 ---
 
-## Bayesian Games
+### Bayesian Games
 
 
 Now, we will be looking at “Bayesian games” which are strategic games in which players have private information. After a quick detour into some modelling aspects, we look at general definitions and how to solve for equilibria. To view the videos in full screen, open them in a new tab.  

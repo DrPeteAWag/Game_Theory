@@ -4,7 +4,7 @@ title: "Section 4: Correlated EQ"
 order: 4 
 ---
 
-# Section 4: Correlated EQ
+# Section 4: Contract, Mediation and Correlated Equilibrium
 
 <br>
 
