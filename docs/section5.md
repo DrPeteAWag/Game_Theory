@@ -4,7 +4,9 @@ title: "Section 6: Bayesian games"
 permalink: /posts/:title
 ---
 
-## 1. Statistics Review
+# 1. Statistics Review
+
+<br>
 
 First, we will be focusing our attention on a review of some basic concepts from probability theory and statistics. To view the videos in full screen, open them in a new tab. 
 

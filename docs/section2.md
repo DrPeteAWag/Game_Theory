@@ -4,6 +4,11 @@ title: "Section 2: Extensive Games"
 order: 2
 ---
 
+# "Section 2: Extensive Games"
+
+<br>
+
+
 In this section, we study extensive games, which are games in which players make their moves in sequence. 
 
 We start with some motivating examples of games with sequential moves; the familiar game tick-tack-toe and a second game, removing coins. We first will try to get a sense for the types of strategic interactions we are interested in and to motivate the definition of extensive games. I then provide a (relatively) formal definition of extensive games, and discuss the notion of strategies and outcomes in extensive games, which are more complicated objects than in simple strategic games. 
