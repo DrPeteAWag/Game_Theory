@@ -4,7 +4,7 @@ title: "Section 3: Bargaining"
 order: 3 
 ---
 
-
+# Section 3: Bargaining
 
 ---
 

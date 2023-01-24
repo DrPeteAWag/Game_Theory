@@ -4,6 +4,8 @@ title: "Section 4: Correlated EQ"
 order: 4 
 ---
 
+# Section 4: Correlated EQ
+
 This week, we consider a what happens to  Nash equilibria when we allow players to coordinate their actions more effectively. Recall that one interpretation of Nash equilibrium is as an informal contract or self-reinforcing agreement: "I will do A if you do B because that's optimal for me, and you will do B if I do A because that's optimal for you." 
 
 We saw that these agreements can be rather inefficient. The prisoners' dilemma for example, demonstrates that the Nash equilibrium generates a total welfare that is lower than what could be achieved through cooperation. The main problem that causes this outcome is that of commitment. Each player is better off defecting because of individually, this maximises their payoff. 

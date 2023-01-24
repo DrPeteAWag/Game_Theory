@@ -1,64 +1,45 @@
 ---
 layout: post
-title: "Section 6: Bayesian games"
-permalink: /posts/:title
+title: "Section 7: Extensive games with incomplete information"
 ---
 
-## 1. Statistics Review
 
-First, we will be focusing our attention on a review of some basic concepts from probability theory and statistics. To view the videos in full screen, open them in a new tab. 
+### Lecture Videos
+We now move on to extensive games with incomplete information. These games are equivalent to extensive games with imperfect information (unobserved *actions*, rather than unobserved *types*) and “chance” moves by nature, and we will talk about such games only in these terms. The main difference to Bayesian games is that players move sequentially and learn during the game, and the challenge is then to model how players learn and what beliefs they hold at each stage of the game. 
 
-1. In my first video, I review the notions of probability distributions, discrete and continuous random variables, and expectation. 
+1. In the first video, I provide a motivating example that illustrates the kind of challenges that we encounter when dealing with extensive games with incomplete information.  In particular, I point to two new requirements that will lie at the heart of the equilibrium notion that we will need for such games: sequential rationality and belief consistency. 
 
-<p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=70b79d00-fe67-42bb-a082-acb3013da51b&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+   <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=87d666ec-439d-45d6-8318-acc1015c310f&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+2. In the second video, I define and discuss the notion of “sequential rationality”. 
 
-1. In my second video, I revisit the notion of conditional probability, and Bayes’ rule and  independence. 
-<p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=dda0d5a6-37c3-47c4-8a43-acb3015a1aa5&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
-1. In the third video, I then explain how we use these concepts to incorporate random draws into decision problems, which we will later extend to game theoretic settings.
-<p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d5d7e4ab-93db-44ac-8262-acb30166776b&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p> 
+   <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4fdf9e2c-0daf-4261-b3ff-acc1015c3b0c&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+3. In the third video, I define and discuss the notion of “belief consistency”. 
 
+   <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1cd283ed-af17-467b-b77d-acc1015c431b&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+4. The fourth video provides a general definition of weak perfect Bayesian equilibrium, and I provide some context and illustrate one of its weaknesses with an example. 
 
----
+   <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=bbfea946-4c8c-4d7c-8a3f-acc5009efe9c&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+5. The last two videos provide examples of extensive games with incomplete information
 
-## Bayesian Games
-
-
-Now, we will be looking at “Bayesian games” which are strategic games in which players have private information. After a quick detour into some modelling aspects, we look at general definitions and how to solve for equilibria. To view the videos in full screen, open them in a new tab.  
-
-1. In the *first video*, I talk about the notion of “types” which we use to represent the players’ different states of knowledge in strategic games. 
-    
-<p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0c94f52e-d0bf-4e86-9616-acba012115a8&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
-
-2. In the *second video*, I walk you through a first example of a strategic game I call the “meeting game” (which may or may not be inspired by my wife’s weekly meetings with her highly motivated running buddy). The first step is to observe that strategic games with incomplete information are indeed equivalent to extensive games with unobservable actions and moves by Nature. In this sense, the notion of Nash equilibrium that you have seen before can be readily applied. I show you how to find the (pure strategy Nash equilibrium) for this game. 
-
-    <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4fafd131-31a3-4fa7-a2e4-acba01450f85&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
-
-3. The *third video* provides a general definition of Bayesian games and Bayes-Nash equilibrium. 
-    
-    <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9318fcd3-02c5-4832-8c0d-acbb00e4bce4&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
-4. The *last two videos* provide further examples of games with incomplete information
-
-   1. **Example 1**:  “More information can be bad”
-    
-        <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=14f193e2-fc0f-4340-8efe-acbb00e9ef2c&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
-
-   2. **Example 2**: “Cournot competition with private cost”
+   1. Example  1: “Card Game”
+      <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=eb65d576-fd18-409c-9863-acc10164e492&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+   1. Example  2:“Spence’s Signalling game”
    
-        <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f78caa58-ebb9-4c5e-9089-acbb00f8eb71&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
-
+      <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0b5094f9-8d45-4f5e-b49f-acc10169f242&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+1. There are more nice examples one Wikipedia that you can use to practice your understanding:
+   1. [Gift game 1](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Gift_game_1)[ ](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Gift_game_1)
+   1. [Gift game  2](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Gift_game_2)
+   1. [Repeated public good game](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Repeated_public-good_game)
+   1. [Reputation game](https://en.wikipedia.org/wiki/Signaling_game#Reputation_game)
+   1. [Education  game](https://en.wikipedia.org/wiki/Signaling_game#Education_game) (a variation of the game in Example 2)
+   1. [Beer Quiche game](https://en.wikipedia.org/wiki/Signaling_game#Beer-Quiche_game) .
+###
 ### Readings:
-- Chapter 9 in Osborne, M. J. (2009). An Introduction to Game Theory. Oxford University Press
-- Chapter 3 in Gibbons, R. (1992). Game Theory for Applied Economists. Princeton University Press.
-
-
+- Chapter 10 in Osborne, M. J. (2009). An Introduction to Game Theory. Oxford University Press
+- Chapter 4 in Gibbons, R. (1992). Game Theory for Applied Economists. Princeton University Press.
 ### Additional Resources: 
-Wikipedia article on Bayesian Games: [https://en.wikipedia.org/wiki/Bayesian_game](https://en.wikipedia.org/wiki/Bayesian_game)
+- Wikipedia: Signalling Games: [https://en.wikipedia.org/wiki/Signaling_game](https://en.wikipedia.org/wiki/Signaling_game)
+- Wikipedia: Perfect Bayesian Equilibrium [https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium)
+- Wikipedia: Extensive games [https://en.wikipedia.org/wiki/Extensive-form_game#Incomplete_information)](https://en.wikipedia.org/wiki/Extensive-form_game#Incomplete_information)
 
 
-
-### Readings:
-- Grinstead, C. M., & Snell, J. L. (2012). Introduction to probability. American Mathematical Soc.. (Freely available at [https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf))
-
-### Additional Resources: 
-1. If you feel like you would like to have a more basic review of these concepts, take a look at the lesson in [Khan academy here](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables). You might also find the **exercises** there helpful. 
-1. The [wikipedia article on probability distributions](https://en.wikipedia.org/wiki/Probability_theory) might also be helpful.
