@@ -1,7 +1,4 @@
----
-layout: post
-title: "Statistics Review"
----
+
 
 ### Lecture Videos
 This week, we will be focusing our attention on a review of some basic concepts from probability theory and statistics. To view the videos in full screen, open them in a new tab. 
