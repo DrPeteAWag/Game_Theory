@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Section 5: Statistics Review"
+title: "Statistics Review"
 ---
 
 ### Lecture Videos
