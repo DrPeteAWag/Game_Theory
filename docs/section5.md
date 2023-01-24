@@ -5,7 +5,8 @@ permalink: /posts/:title
 ---
 
 
-# Overview 
+# Overview
+
 <br>
 
 We begin this section with a review of basic concepts of probability and statistics. In the second part of this section, we use these concepts to extend strategic games as discussed in Section 1 by allowing players to be have different information about their preferences or other aspects of the game, and we explain how to modify the notion of Nash equilibrium to this class of games. 
