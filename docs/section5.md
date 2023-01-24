@@ -14,8 +14,8 @@ We begin this section with a review of basic concepts of probability and statist
 ---
   
 - **Lecture Slides:**  
-  - Statistics Review [PDF]()
-  - Bayesian Games [PDF]()
+  - Statistics Review [PDF](https://drive.google.com/uc?export=download&id=1DO1ZPk0nw1Pvxb461fV6cV93nsLv1cTj)
+  - Bayesian Games [PDF](https://drive.google.com/uc?export=download&id=16y-HWNtEC6eA1kU-283hCEVajfq8-wvR)
 
 
 <br>
