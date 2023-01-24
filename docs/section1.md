@@ -15,8 +15,6 @@ We then continue to explore the concept of domination. A strategy is dominated i
 
 
 ---
-
-<br>
   
 - **Lecture Slides:**  
   - Strategic Games, Nash equilibrium and Domination [PDF](https://drive.google.com/uc?export=download&id=1StvFev88Y4miOZidd7grptv1Cjnz2Njz)

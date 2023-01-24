@@ -17,11 +17,9 @@ After that, we  discuss Nash equilibria of extensive games. The basic notion of 
 
 Finally, we consider the problem of empty threats and empty promises. The Nash equilibrium has the problem that it allows outcomes that are sustained by making threats that the person making the threat would never want to carry out (think of parents making empty threats to their children). We'll discuss what  this means in terms of our games, and discuss an equilibrium refinement called the subgame perfect equilibrium that removes equilibria that entail such empty threats. We'll also talk about how to find subgame perfect equilibria in finite game through the process of backwards induction. 
 
-<br>
 
 ---
 
-<br>
   
 - **Lecture Slides:**  
   - Extensive Games [PDF](https://drive.google.com/uc?export=download&id=1NlDvOZhW5ZdEWxOg8UzDY_EYCoFfcd8h)

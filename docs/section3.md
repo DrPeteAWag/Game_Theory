@@ -6,9 +6,10 @@ order: 3
 
 # Section 3: Bargaining
 
+We now consider so called "bargaining games", which are a type of extensive game in which players bargain over the division of a "pie". The starting point is a classic "ultimatum game", in which one player makes an offers and the other either accept or rejects. We focus on a variant of this model, the Rubinstein (1982) bargaining model, which the ultimatum game, but repeated after each rejected offer and with players alternating in making offers.  The Rubinstein bargaining model is a game-theoretic model of negotiation that was proposed by Ariel Rubinstein in 1982. It is a dynamic model that assumes that the parties can make offers and counteroffers until they reach an agreement or until a deadline is reached. In this model, the agreement is reached when one party makes an ultimatum offer, which is an offer that the other party cannot reject without losing more than the offer is worth. The Rubinstein model is widely used to study a variety of negotiation situations, such as labor negotiations, mergers and acquisitions, and international trade agreements. It has been extended and modified by other researchers to include other elements such as deadlines, incomplete information, and different negotiation strategies.
+
 ---
 
-<br>
   
 - **Lecture Slides:**  
   - Bargaining Games [PDF](https://drive.google.com/uc?export=download&id=14FNOYqQpDIPlHugJdUeherOHQJPvJ78Q)

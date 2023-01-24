@@ -1,16 +1,48 @@
 ---
 layout: post
-title: "Section 7: Extensive games with incomplete information"
+title: "Section 5: Extensive games with incomplete information"
 ---
 
 # Section 7: Extensive games with incomplete information
 
 <br>
 
-
-
-### Lecture Videos
 We now move on to extensive games with incomplete information. These games are equivalent to extensive games with imperfect information (unobserved *actions*, rather than unobserved *types*) and “chance” moves by nature, and we will talk about such games only in these terms. The main difference to Bayesian games is that players move sequentially and learn during the game, and the challenge is then to model how players learn and what beliefs they hold at each stage of the game. 
+
+
+---
+  
+- **Lecture Slides:**  
+  -  Extensive games with incomplete information [PDF](https://drive.google.com/uc?export=download&id=1NlDvOZhW5ZdEWxOg8UzDY_EYCoFfcd8h)
+
+<br>
+
+- **Readings:**
+  
+  
+  - [Chapter 4: Dynamic Games of Incomplete Information in the book "Game Theory for Applied Economists" by Gibbons (1992)](https://www-jstor-org.libproxy.york.ac.uk/stable/j.ctvcmxrzd.7)
+
+
+<br>
+
+- **Learning Objectives:**
+  
+  - Understand the concept of an information set and how this relates to  extensive game with incomplete information
+  - Become familiar with beliefs are assigned to information set and updated based on the players' strategies.
+  - Understand the meaning of weak perfect Bayesian equilibrium. 
+  
+
+
+<br>
+
+---
+
+<br>
+
+# Lecture videos: 
+
+<br>
+
 
 1. In the first video, I provide a motivating example that illustrates the kind of challenges that we encounter when dealing with extensive games with incomplete information.  In particular, I point to two new requirements that will lie at the heart of the equilibrium notion that we will need for such games: sequential rationality and belief consistency. 
 

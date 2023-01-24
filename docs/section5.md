@@ -8,8 +8,40 @@ permalink: /posts/:title
 
 We begin this section with a review of basic concepts of probability and statistics. In the second part of this section, we use these concepts to extend strategic games as discussed in Section 1 by allowing players to be have different information about their preferences or other aspects of the game, and we explain how to modify the notion of Nash equilibrium to this class of games. 
 
+---
+  
+- **Lecture Slides:**  
+  - Statistics Review [PDF]()
+  - Bayesian Games [PDF]()
+
+
 <br>
 
+- **Readings:** 
+  
+  
+    -   [Chapter 3: Static Games of Incomplete Information in the book "Game Theory for Applied Economists" by Gibbons (1992)](https://www-jstor-org.libproxy.york.ac.uk/stable/j.ctvcmxrzd.6)
+
+
+
+<br>
+
+- **Learning Objectives:**
+  
+  - Understand the concepts of probability, expectation, independence and Bayes' rule
+  - Learn the definition of a "Bayesian game" and "Bayes-Nash equilibrium" and these compare to games with complete information. 
+  
+
+
+<br>
+
+---
+
+<br>
+
+# Lecture videos: 
+
+<br>
 
 ### Preliminaries: Statistics Review
 

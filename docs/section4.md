@@ -14,21 +14,18 @@ We saw that these agreements can be rather inefficient. The prisoners' dilemma f
 
 We will consider two ways to alleviate the commitment issue. This first is through contracts. We simply expand the game by adding a contracting stage, where each player can commit to sign a binding contract that forces them to take a certain action in the second stage. We see that in this case, the prisoners' dilemma can be overcome. Writing such contracts require external enforcement, which is not always reasonable to assume exists. The second way does not require any external enforcement, but 
 
-<br>
-
 ---
 
-<br>
   
 - **Lecture Slides:**  
-  - Extensive Games [PDF](https://drive.google.com/uc?export=download&id=1NlDvOZhW5ZdEWxOg8UzDY_EYCoFfcd8h)
+  - Contract, Mediation and Correlated Equilibrium [PDF](https://drive.google.com/uc?export=download&id=18rha3tE_LAcMbBrwwaDvz6pR8DqOJIEn)
   
 
 <br>
 
 - **Readings:**
-  *   [Extensive games with perfect information: theory](https://www.economics.utoronto.ca/osborne/igt/igtChapter5.pdf)
-  *   [Extensive games with perfect information: illustrations](https://www.economics.utoronto.ca/osborne/igt/igtChapter6.pdf)
+  *   [Chapter 8: "Correlated Equilibrium" in the book Game theory, by Maschler, Zamir, & Solan (2020)](https://r2.vlereader.com/Reader?ean=9781107254206)
+
 
 
 
@@ -36,16 +33,20 @@ We will consider two ways to alleviate the commitment issue. This first is throu
 
 - **Learning Objectives:**
   
-  - Understand the concept of an extensive game and its formal definition
-  - Become familiar with the concepts of   strategies in extensive games
-  - Learn how to solve for Nash equilibrium in extensive games
-  - Understand the meaning of an "empty threat" and how equilibrium refinement "subgame perfection" resolve this.
+  - Understand the why commitment issues lead to socially inefficient outcomes
+  - Become familiar with the notion of extending a game through a "pre-play" stage involving contracts or randomisation
+  - Understand the concept of "correlated equilibrium"
   
 
 
 <br>
 
 --- 
+
+
+<br>
+
+# Lecture videos: 
 
 <br>
 
