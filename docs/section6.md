@@ -13,7 +13,7 @@ We now move on to extensive games with incomplete information. These games are e
 ---
   
 - **Lecture Slides:**  
-  -  Extensive games with incomplete information [PDF](https://drive.google.com/uc?export=download&id=1NlDvOZhW5ZdEWxOg8UzDY_EYCoFfcd8h)
+  -  Extensive games with incomplete information [PDF](https://drive.google.com/uc?export=download&id=1OFJ3zOdJvXLKMhoU7OAFt2RoagBeM7jT)
 
 <br>
 
